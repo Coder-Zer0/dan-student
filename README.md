@@ -1,3 +1,4 @@
 # dan-student
 dan
-#! dan-student
+
+Never push Emac files
